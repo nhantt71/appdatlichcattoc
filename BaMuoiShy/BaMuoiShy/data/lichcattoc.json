@@ -1,0 +1,22 @@
+{
+  "lichcattocs": [
+    {
+      "id": 1,
+      "idKhachHang": 1,
+      "dichVu": [ "Cắt Tóc Nam" ],
+      "ngay": "26/01/2024",
+      "gio": "9:00",
+      "diaDiem": "TP.HCM",
+      "total_amount": 100000.0
+    },
+    {
+      "id": 2,
+      "idKhachHang": 1,
+      "dichVu": [ "Cắt Tóc Nam", "Ủ Tóc", "Nhuộm Tóc" ],
+      "ngay": "27/01/2024",
+      "gio": "14:00",
+      "diaDiem": "HA NOI",
+      "total_amount": 750000.0
+    }
+  ]
+}

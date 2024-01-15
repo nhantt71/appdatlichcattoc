@@ -1,0 +1,122 @@
+{
+  "accounts": [
+    {
+      "id": "1",
+      "ten": "Admin",
+      "sdt": "0213123555",
+      "tenDangNhap": "admin",
+      "matKhau": "123456"
+    },
+    {
+      "id": "2",
+      "ten": "trong nhan",
+      "sdt": "0916072042",
+      "tenDangNhap": "trnhan",
+      "matKhau": "123456"
+    },
+    {
+      "id": "3",
+      "ten": "tester",
+      "sdt": "0543545555",
+      "tenDangNhap": "test",
+      "matKhau": "111111"
+    },
+    {
+      "id": "4",
+      "ten": "tester2",
+      "sdt": "0123131245",
+      "tenDangNhap": "tester2",
+      "matKhau": "111111"
+    },
+    {
+      "id": "5",
+      "ten": "ronaldo",
+      "sdt": "0777777777",
+      "tenDangNhap": "cr7",
+      "matKhau": "123456"
+    },
+    {
+      "id": "6",
+      "ten": "messi",
+      "sdt": "0123456789",
+      "tenDangNhap": "cr9",
+      "matKhau": "123456"
+    },
+    {
+      "id": "7",
+      "ten": "xin chao",
+      "sdt": "0192312333",
+      "tenDangNhap": "test3",
+      "matKhau": "123444"
+    },
+    {
+      "id": "8",
+      "ten": "dwww",
+      "sdt": "0923211115",
+      "tenDangNhap": "dew",
+      "matKhau": "123"
+    },
+    {
+      "id": "9",
+      "ten": "ggggg",
+      "sdt": "0123912312",
+      "tenDangNhap": "username",
+      "matKhau": "123456"
+    },
+    {
+      "id": "10",
+      "ten": "fsfasfaf",
+      "sdt": "023424234",
+      "tenDangNhap": "admin1",
+      "matKhau": "123"
+    },
+    {
+      "id": "11",
+      "ten": "qưeqwe",
+      "sdt": "0923232111",
+      "tenDangNhap": "admin12",
+      "matKhau": "111111"
+    },
+    {
+      "id": "12",
+      "ten": "saske",
+      "sdt": "0912355257",
+      "tenDangNhap": "naruto",
+      "matKhau": "123"
+    },
+    {
+      "id": "13",
+      "ten": "nhan",
+      "sdt": "0916072042",
+      "tenDangNhap": "admin5",
+      "matKhau": "123456"
+    },
+    {
+      "id": "14",
+      "ten": "adminne123",
+      "sdt": "0912342551",
+      "tenDangNhap": "admindeptrai",
+      "matKhau": "123456"
+    },
+    {
+      "id": "15",
+      "ten": "newadmin",
+      "sdt": "0912342556",
+      "tenDangNhap": "nadmin",
+      "matKhau": "123456"
+    },
+    {
+      "id": "16",
+      "ten": "adminne123",
+      "sdt": "0912342551",
+      "tenDangNhap": "admindeptrailamluon",
+      "matKhau": "123456"
+    },
+    {
+      "id": "5a56"
+    },
+    {
+      "id": "9640"
+    }
+  ]
+}

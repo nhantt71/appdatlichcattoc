@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaMuoiShy", "BaMuoiShy\BaMuoiShy.csproj", "{2033C97D-7953-4C75-BC3D-596751FABFC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAppBaMuoiShy", "TestAppBaMuoiShy\TestAppBaMuoiShy.csproj", "{C780DB49-4E91-4E64-8D12-7A6E563BDD7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2033C97D-7953-4C75-BC3D-596751FABFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2033C97D-7953-4C75-BC3D-596751FABFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2033C97D-7953-4C75-BC3D-596751FABFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2033C97D-7953-4C75-BC3D-596751FABFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C780DB49-4E91-4E64-8D12-7A6E563BDD7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C780DB49-4E91-4E64-8D12-7A6E563BDD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C780DB49-4E91-4E64-8D12-7A6E563BDD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C780DB49-4E91-4E64-8D12-7A6E563BDD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23C9D53D-59F2-4634-8612-306500B43CAB}
+	EndGlobalSection
+EndGlobal
